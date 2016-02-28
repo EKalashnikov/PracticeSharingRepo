@@ -2,4 +2,6 @@ Content of the first file
 
 Hello world and everything
 
-Hi, this is Mila's change!
+Hi, this is Mila's change! this is yet another change of mine!
+
+and something more...
